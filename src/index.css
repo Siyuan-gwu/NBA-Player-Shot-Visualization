@@ -1,5 +1,11 @@
 @import "styles/App.css";
 @import "styles/TopNavBar.css";
+@import "styles/ShotChart.css";
+@import "styles/Main.css";
+@import "styles/Profile.css";
+@import "~antd/dist/antd.css";
+@import "styles/DataViewContainer.css";
+@import "styles/SearchBar.css";
 
 body {
   margin: 0;
