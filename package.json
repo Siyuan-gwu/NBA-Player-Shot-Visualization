@@ -4,16 +4,19 @@
   "private": true,
   "dependencies": {
     "antd": "^3.24.2",
+    "aws": "0.0.3-2",
     "d3-shotchart": "0.0.2",
     "lodash": "^4.17.15",
     "nba": "^4.8.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "s3": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "aws s3 sync build/ s3://nba-player",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
