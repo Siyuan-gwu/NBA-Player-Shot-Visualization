@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eda512302e14e9f3451499ca0655183a",
+    "revision": "ba52443f3a0af1580d3eaa0862597f96",
     "url": "/NBA-Player-Shot-Visualization/index.html"
   },
   {

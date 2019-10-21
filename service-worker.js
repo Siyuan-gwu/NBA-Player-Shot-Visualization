@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/NBA-Player-Shot-Visualization/precache-manifest.cb287602a5183584091b9214d143dfaf.js"
+  "/NBA-Player-Shot-Visualization/precache-manifest.928a07a5dd0a9d48f459ab2feb70b16c.js"
 );
 
 self.addEventListener('message', (event) => {
