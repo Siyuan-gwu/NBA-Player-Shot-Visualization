@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NBA-Player-Shot-Visualization/static/css/main.0b24f17b.chunk.css",
+    "main.js": "/NBA-Player-Shot-Visualization/static/js/main.5169160e.chunk.js",
+    "main.js.map": "/NBA-Player-Shot-Visualization/static/js/main.5169160e.chunk.js.map",
+    "runtime-main.js": "/NBA-Player-Shot-Visualization/static/js/runtime-main.f9256bae.js",
+    "runtime-main.js.map": "/NBA-Player-Shot-Visualization/static/js/runtime-main.f9256bae.js.map",
+    "static/css/2.aa7fcd32.chunk.css": "/NBA-Player-Shot-Visualization/static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.0372d688.chunk.js": "/NBA-Player-Shot-Visualization/static/js/2.0372d688.chunk.js",
+    "static/js/2.0372d688.chunk.js.map": "/NBA-Player-Shot-Visualization/static/js/2.0372d688.chunk.js.map",
+    "index.html": "/NBA-Player-Shot-Visualization/index.html",
+    "precache-manifest.cb287602a5183584091b9214d143dfaf.js": "/NBA-Player-Shot-Visualization/precache-manifest.cb287602a5183584091b9214d143dfaf.js",
+    "service-worker.js": "/NBA-Player-Shot-Visualization/service-worker.js",
+    "static/css/2.aa7fcd32.chunk.css.map": "/NBA-Player-Shot-Visualization/static/css/2.aa7fcd32.chunk.css.map",
+    "static/css/main.0b24f17b.chunk.css.map": "/NBA-Player-Shot-Visualization/static/css/main.0b24f17b.chunk.css.map",
+    "static/media/nba-logoman-word-white.svg": "/NBA-Player-Shot-Visualization/static/media/nba-logoman-word-white.9470e2d5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9256bae.js",
+    "static/css/2.aa7fcd32.chunk.css",
+    "static/js/2.0372d688.chunk.js",
+    "static/css/main.0b24f17b.chunk.css",
+    "static/js/main.5169160e.chunk.js"
+  ]
+}
