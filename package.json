@@ -17,8 +17,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+//    "predeploy": "npm run build",
+//    "deploy": "gh-pages -d build",
+    "deploy": "aws s3 sync build/ s3://nba-player",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
