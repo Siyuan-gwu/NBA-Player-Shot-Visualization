@@ -1,5 +1,5 @@
 import React from 'react';
-import nba from 'nba';
+import nba from '../nba-client';
 import * as d3 from 'd3';
 import {hexbin} from 'd3-hexbin';
 import {court, shots} from 'd3-shotchart';

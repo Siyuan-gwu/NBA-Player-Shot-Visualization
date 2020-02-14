@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Icon, Button, Input, AutoComplete} from 'antd';
+import {Icon, Input, AutoComplete} from 'antd';
 import nba from 'nba';
 import {PROFILE_PIC_URL_PREFIX} from "../constants";
 
@@ -31,7 +31,7 @@ class SearchBar extends Component {
         const options = dataSource.map((player) => (
             <Option key={player.fullName} value={player.fullName}
                     className="player-option">
-                <img className="player-option-image" src={`${PROFILE_PIC_URL_PREFIX}/${player.playerId}.png`}/>
+                <img className="player-option-image" src={`${PROFILE_PIC_URL_PREFIX}/${player.playerId}.png`} alt="Player"/>
                 <span className="player-option-label">{player.fullName}</span>
             </Option>
         ));
