@@ -3,6 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Demo Link:
 http://nba-player.s3-website.us-east-2.amazonaws.com/
 
+## App Description
+* A dashboard to visualize player's shot data
+* Four filters and two shot thems (hexbin and scatter) to provide more customized visualization on the
+shot chart
+* Use autocomplete search bar that users can search and get a suggestion player list
+
 ## Available Scripts
 
 In the project directory, you can run:
